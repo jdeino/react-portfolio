@@ -32,4 +32,4 @@ Please feel free to explore my portfolio and don't hesitate to contact me if you
   ## Questions
   * Github: https://github.com/jdeino
   * Email: josh.deino91@yahoo.com
-  github pages: https://jdeino.github.io/react-portfolio/#/
+  * github pages: https://jdeino.github.io/react-portfolio/#/
