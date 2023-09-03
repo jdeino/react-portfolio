@@ -9,6 +9,8 @@ I am experienced in using a tools including HTML, CSS, JavaScript, React, Node.j
 
 Please feel free to explore my portfolio and don't hesitate to contact me if you have any questions or are interested in working together on your next project. Thank you for your interest!
 
+<img width="1440" alt="portfolio" src="https://github.com/jdeino/react-portfolio/assets/109103013/400375cd-90ae-47d2-869e-2092f59e79cc">
+
 
   ## Table of Contents
   * [Installations](#installation)
