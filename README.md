@@ -14,15 +14,17 @@ Please feel free to explore my portfolio and don't hesitate to contact me if you
   * [Installations](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
 
     
   ## Installation
+  To install dependencies, run the following command:
+  ```
   npm install
+  ```
+  
   ## Usage
-  Run npm i and npm start and start learning about me. 
+  Run npm i and npm start. 
 
   ## License
   [![License: ISC](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -30,4 +32,4 @@ Please feel free to explore my portfolio and don't hesitate to contact me if you
   ## Questions
   * Github: https://github.com/jdeino
   * Email: josh.deino91@yahoo.com
-  github pages: https://jdeino.github.io/my-react-portfolio/
+  github pages: https://jdeino.github.io/react-portfolio/#/
