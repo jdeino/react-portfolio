@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jdeino/react-portfolio/static/css/main.e52fb879.css",
+    "main.js": "/jdeino/react-portfolio/static/js/main.8b4c1b9f.js",
+    "static/js/787.a2cb61a6.chunk.js": "/jdeino/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/foggy-forest.jpg": "/jdeino/react-portfolio/static/media/foggy-forest.e798cc5ce2c309c88d28.jpg",
+    "static/media/javaScript-quiz.jpg": "/jdeino/react-portfolio/static/media/javaScript-quiz.5ef5231153221a33ba20.jpg",
+    "static/media/ecommerce.jpg": "/jdeino/react-portfolio/static/media/ecommerce.afde5aa3731c7c04fc38.jpg",
+    "static/media/me.jpeg": "/jdeino/react-portfolio/static/media/me.1f85989dc411081498f5.jpeg",
+    "static/media/note-taker.jpg": "/jdeino/react-portfolio/static/media/note-taker.87e6eff1eecf983b47ca.jpg",
+    "static/media/employee-tracker.jpg": "/jdeino/react-portfolio/static/media/employee-tracker.57d285f634b9cfc6ccc3.jpg",
+    "static/media/pw-generator.jpg": "/jdeino/react-portfolio/static/media/pw-generator.cedf2e30e805a089f86c.jpg",
+    "static/media/svg-logo-maker.jpg": "/jdeino/react-portfolio/static/media/svg-logo-maker.28e946919252e44839f2.jpg",
+    "index.html": "/jdeino/react-portfolio/index.html",
+    "main.e52fb879.css.map": "/jdeino/react-portfolio/static/css/main.e52fb879.css.map",
+    "main.8b4c1b9f.js.map": "/jdeino/react-portfolio/static/js/main.8b4c1b9f.js.map",
+    "787.a2cb61a6.chunk.js.map": "/jdeino/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e52fb879.css",
+    "static/js/main.8b4c1b9f.js"
+  ]
+}
