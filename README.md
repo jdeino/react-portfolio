@@ -1,7 +1,7 @@
 # My React Portfolio
 
   ## Description
-Here is my portfolio as a full stack web developer! There is something about creating something to see it brought to life before your eyes! But applications that are user-friendly that solve real-world problems. With a strong foundation in both front-end and back-end technologies, I specialize in crafting seamless digital experiences from concept to deployment.
+Here is my portfolio as a full stack web developer! There is something about creating something to only see it be brought to life before your eyes! But applications that are user-friendly that solve real-world problems. With a strong foundation in both front-end and back-end technologies, I specialize in crafting seamless digital experiences from concept to deployment.
 
 In this portfolio, you will find a collection of projects that showcase my skills and experience on both front end, and back end. From responsive designs to interactive user interfaces, I have worked on a variety of projects that showcase my ability to build and scale web applications.
 
