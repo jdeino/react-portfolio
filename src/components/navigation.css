@@ -1,0 +1,34 @@
+.navigation {
+    background-color: rgba(0, 0, 0, 0.3); 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-item {
+    font-size: 20px; 
+    cursor: pointer;
+    margin-right: 20px;
+    color: white;
+    transition: color 0.3s;
+}
+
+.nav-item:last-child {
+    margin-right: 0;
+}
+
+.nav-item:hover {
+    text-decoration: underline;
+    color: #ff5722;
+}
+
+.active-nav-item {
+    background-color: #E5F4E3;
+    color: #1C3738;
+}
